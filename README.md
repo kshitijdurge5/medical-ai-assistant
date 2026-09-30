@@ -41,3 +41,11 @@ LLM Processes the Request
 AI Response
       ↓
 Displayed to User
+
+
+
+## 📸 Demo
+
+Here is a sample interaction with the Medical AI Assistant:
+
+![Medical AI Assistant Demo](Screenshots/medical-ai-demo.png)
